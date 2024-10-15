@@ -23,4 +23,4 @@ modules:
     sources:
     - type: archive
       url: 'http://www.ferdiferdi.com/km/KM_LIN.zip'
-      sha256: 'b1141e691a37cf65ae57209a5dd846feaaf05f6645db41d8041bd7619a9ec029'
+      sha256: '0f1893be1a8854fa39b6c4c360df8c365f617b7bf693e84ec5fb8f8712b3d1db'
