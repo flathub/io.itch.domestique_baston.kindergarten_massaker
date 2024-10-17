@@ -25,11 +25,11 @@ modules:
       url: 'https://github.com/DomestiqueBaston/KINDERGARTEN_MASSAKER/releases/download/v1.0.1/km.pck'
       sha256: 'fe473c17836fba328fc407b0443408bc53c8402033a67406fc21a5f746a81d49'
     - type: file
-      url: 'https://github.com/DomestiqueBaston/KINDERGARTEN_MASSAKER/raw/refs/tags/v1.0.1/io.github.domestiquebaston.kindergarten_massaker.desktop'
-      sha256: '25e97e3d322a8d4fe5adb65e41ee61235a2e742ad35adad31086fc2c9da3096a'
+      url: 'https://github.com/DomestiqueBaston/KINDERGARTEN_MASSAKER/raw/refs/tags/v1.0.1/io.itch.domestique_baston.kindergarten_massaker.desktop'
+      sha256: 'e415a666800f3100a1d7ac6873c4005232d1a986f357188909b766180f4c071b'
     - type: file
-      url: 'https://github.com/DomestiqueBaston/KINDERGARTEN_MASSAKER/raw/refs/tags/v1.0.1/io.github.domestiquebaston.kindergarten_massaker.metainfo.xml'
-      sha256: '9fd0e89ccb391a419c46cd5fd5519d96030ec985d357610a77f79d25909db47a'
+      url: 'https://github.com/DomestiqueBaston/KINDERGARTEN_MASSAKER/raw/refs/tags/v1.0.1/io.itch.domestique_baston.kindergarten_massaker.metainfo.xml'
+      sha256: '7e4af8bb3128ea1d961f1108072c2d46982a54812763dca0196bcfbe2bf45dba'
     - type: file
       url: 'https://github.com/DomestiqueBaston/KINDERGARTEN_MASSAKER/raw/refs/tags/v1.0.1/GODOT/KM_LOGO.png'
       sha256: '33ff96152b641b9fd58072564079a1c00d13cf9f70aea9df0ab362508114ca97'
