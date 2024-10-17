@@ -29,7 +29,7 @@ modules:
       sha256: 'e415a666800f3100a1d7ac6873c4005232d1a986f357188909b766180f4c071b'
     - type: file
       url: 'https://github.com/DomestiqueBaston/KINDERGARTEN_MASSAKER/raw/refs/tags/v1.0.1/io.itch.domestique_baston.kindergarten_massaker.metainfo.xml'
-      sha256: '7e4af8bb3128ea1d961f1108072c2d46982a54812763dca0196bcfbe2bf45dba'
+      sha256: 'ed19579b8ca6e0da3493185f46f3e5d77a321c824bffd943aca863a223425166'
     - type: file
       url: 'https://github.com/DomestiqueBaston/KINDERGARTEN_MASSAKER/raw/refs/tags/v1.0.1/GODOT/KM_LOGO.png'
       sha256: '33ff96152b641b9fd58072564079a1c00d13cf9f70aea9df0ab362508114ca97'
